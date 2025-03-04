@@ -69,3 +69,6 @@ Contains the **main method**, displaying a **menu-driven interface**.
 ```sh
 javac Main.java
 
+2️⃣ Run the program:
+java Main
+
